@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/ronnaces" target="_blank" rel="noopener noreferrer"><img width="180" src="https://minio.ronnaces.com:9000/ronnaces/icon/logos.png" alt="logo"></a></p>
+<p align="center"><a href="https://github.com/ronnaces" target="_blank" rel="noopener noreferrer"><img width="180" src="https://github.com/ronnaces/ronna-admin-doc/blob/main/docs/.vuepress/public/img/logo.png" alt="logo"></a></p>
 
 
 <h2 align="center">ronna-admin-doc</h2>
